@@ -1,0 +1,509 @@
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "Sbírka akcí souvisejících s kartami"
+  },
+  "closeDuplicate": {
+    "message": "Zavřít duplicitní karty"
+  },
+  "window": {
+    "message": "Okno"
+  },
+  "mergeWindows": {
+    "message": "Sloučit všechna okna"
+  },
+  "closeOtherWindows": {
+    "message": "Zavřít ostatní okna"
+  },
+  "saveAsPDF": {
+    "message": "Uložit kartu jako PDF"
+  },
+  "createShortcut": {
+    "message": "Vytvořit zástupce na Ploše"
+  },
+  "createShortcutTab": {
+    "message": "Vytvořit zástupce kartyna ploše"
+  },
+  "createShortcutAll": {
+    "message": "Vytvořit zástupce všech karet"
+  },
+  "createShortcutLeft": {
+    "message": "Vytvořit zástupce karet doleva"
+  },
+  "createShortcutRight": {
+    "message": "Vytvořit zástupce karet doprava"
+  },
+  "copy": {
+    "message": "Kopírovat"
+  },
+  "copyTitle": {
+    "message": "Kopírovat název karty"
+  },
+  "copyUrl": {
+    "message": "Kopírovat adresu URL karty"
+  },
+  "copyTitleUrl": {
+    "message": "Kopírovat název karty + URL"
+  },
+  "copyIP": {
+    "message": "Kopírovat adresu karty IP"
+  },
+  "internal": {
+    "message": "Interní stránka Firefoxu"
+  },
+  "private": {
+    "message": "Soukromá síť"
+  },
+  "cache": {
+    "message": "Načteno z mezipaměti"
+  },
+  "unknown": {
+    "message": "Neznámý"
+  },
+  "copyUrlAll": {
+    "message": "Kopírovat adresy URL Vše"
+  },
+  "copyUrlLeft": {
+    "message": "Zkopírujte adresy URL doleva"
+  },
+  "copyUrlRight": {
+    "message": "Zkopírujte adresy URL doprava"
+  },
+  "copyTitleUrlAll": {
+    "message": "Kopírovat názvy + adresy URL vše"
+  },
+  "copyTitleUrlLeft": {
+    "message": "Zkopírujte názvy + adresy URL doleva"
+  },
+  "copyTitleUrlRight": {
+    "message": "Zkopírujte názvy + adresy URL doprava"
+  },
+  "customAll": {
+    "message": "Kopírovat vlastní vše"
+  },
+  "customLeft": {
+    "message": "Kopírovat vlastní doleva"
+  },
+  "customRight": {
+    "message": "Kopírovat vlastní doprava"
+  },
+  "bookmark": {
+    "message": "Záložky"
+  },
+  "bookmarkAll": {
+    "message": "Přidat do záložek vše"
+  },
+  "bookmarkLeft": {
+    "message": "Záložka doleva"
+  },
+  "bookmarkRight": {
+    "message": "Záložka doprava"
+  },
+  "closeBookmarked": {
+    "message": "Zavřít záložky se záložkami"
+  },
+  "closeBookmarkedAll": {
+    "message": "Zavřít všechny záložky se záložkami"
+  },
+  "closeBookmarkedLeft": {
+    "message": "Zavřít záložky se záložkami doleva"
+  },
+  "closeBookmarkedRight": {
+    "message": "Zavřete záložky se záložkami vpravo"
+  },
+  "host": {
+    "message": "Hostitel"
+  },
+  "hostKeep": {
+    "message": "Hostitel Keep"
+  },
+  "hostClose": {
+    "message": "Host uzavřít"
+  },
+  "hostCloseOther": {
+    "message": "Zavřete ostatní karty hostitele"
+  },
+  "hostMoveNewWin": {
+    "message": "Přesunout hostitele do nového okna"
+  },
+  "hostReload": {
+    "message": "Znovu načíst hostitele"
+  },
+  "sort": {
+    "message": "Seřadit"
+  },
+  "sortURLAsc": {
+    "message": "Seřadit podle URL Vzestupně"
+  },
+  "sortURLDesc": {
+    "message": "Seřadit podle URL Sestupně"
+  },
+  "sortTitleAsc": {
+    "message": "Seřadit podle názvu Vzestupně"
+  },
+  "sortTitleDesc": {
+    "message": "Seřadit podle názvu sestupně"
+  },
+  "sortLastAccAsc": {
+    "message": "Seřadit podle posledního přístupu Vzestupně"
+  },
+  "sortLastAccDesc": {
+    "message": "Seřadit podle posledního přístupu sestupně"
+  },
+  "sortReverse": {
+    "message": "Seřadit karty obráceně"
+  },
+  "move": {
+    "message": "Přesun"
+  },
+  "moveStart": {
+    "message": "Přesunout na začátek"
+  },
+  "moveEnd": {
+    "message": "Přesunout na konec"
+  },
+  "moveNewWinLeft": {
+    "message": "Přesuňte se do nového okna doleva"
+  },
+  "moveNewWinRight": {
+    "message": "Přesunout do nového okna doprava"
+  },
+  "movePrivate": {
+    "message": "Přesunout do soukromého okna"
+  },
+  "movePrivateLeft": {
+    "message": "Přesunout se do soukromého okna doleva"
+  },
+  "movePrivateRight": {
+    "message": "Přesunout se do soukromého okna doprava"
+  },
+  "discard": {
+    "message": "Zrušit / vyřadit"
+  },
+  "discardTab": {
+    "message": "Zahodit Tab"
+  },
+  "discardAll": {
+    "message": "Zahodit vše"
+  },
+  "discardLeft": {
+    "message": "Zahodit doleva"
+  },
+  "discardRight": {
+    "message": "Vyřadit doprava"
+  },
+  "hide": {
+    "message": "Skrýt"
+  },
+  "hideTab": {
+    "message": "Skrýt kartu"
+  },
+  "hideAll": {
+    "message": "Skrýt vše"
+  },
+  "hideLeft": {
+    "message": "Skrýt doleva"
+  },
+  "hideRight": {
+    "message": "Skrýt doprava"
+  },
+  "show": {
+    "message": "Ukázat"
+  },
+  "showAll": {
+    "message": "Ukázat vše"
+  },
+  "showLeft": {
+    "message": "Ukázat doleva"
+  },
+  "showRight": {
+    "message": "Ukaž doprava"
+  },
+  "pin": {
+    "message": "Připnout"
+  },
+  "pinAll": {
+    "message": "Připnout vše"
+  },
+  "pinLeft": {
+    "message": "Připnout doleva"
+  },
+  "pinRight": {
+    "message": "Připnout doprava"
+  },
+  "unpin": {
+    "message": "Odepnout"
+  },
+  "unpinAll": {
+    "message": "Odepnout vše"
+  },
+  "unpinLeft": {
+    "message": "Odepnout doleva"
+  },
+  "unpinRight": {
+    "message": "Odepnout doprava"
+  },
+  "Print": {
+    "message": "Tisk"
+  },
+  "capture": {
+    "message": "Zachytit"
+  },
+  "reload": {
+    "message": "Znovu načíst"
+  },
+  "reloadAll": {
+    "message": "Znovu načíst vše"
+  },
+  "reloadLeft": {
+    "message": "Znovu načíst doleva"
+  },
+  "reloadRight": {
+    "message": "Znovu načíst doprava"
+  },
+  "reload1": {
+    "message": "Každou 1 min."
+  },
+  "reload2": {
+    "message": "Každou 2 min."
+  },
+  "reload3": {
+    "message": "Každou 3 min."
+  },
+  "reload4": {
+    "message": "Každou 4 min."
+  },
+  "reload5": {
+    "message": "Každou 5 min."
+  },
+  "reloadStop": {
+    "message": "Zastavit znovu načítání karty"
+  },
+  "clipboardError": {
+    "message": "Nepodařilo se uložit do schránky"
+  },
+  "proxy": {
+    "message": "Informace o proxy"
+  },
+  "tabCounter": {
+    "message": "Počítadlo karet"
+  },
+  "tabCounterDescription": {
+    "message": "Povolit nebo zakázat počítadlo karet"
+  },
+  "maxTabs": {
+    "message": "Maximální počet karet na okno"
+  },
+  "maxTabsDescription": {
+    "message": "Omezte počet karet na okno (0 = žádný limit)"
+  },
+  "maxTabsError": {
+    "message": "Bylo dosaženo maximálního počtu karet na okno"
+  },
+  "badgeBGColor": {
+    "message": "Barva pozadí odznaku"
+  },
+  "badgeBGColorDescription": {
+    "message": "Změňte barvu pozadí odznaku"
+  },
+  "badgeTextColor": {
+    "message": "Barva textu odznaku"
+  },
+  "badgeTextColorDescription": {
+    "message": "Změňte barvu textu odznaku"
+  },
+  "reset": {
+    "message": "Resetovat"
+  },
+  "delete": {
+    "message": "Smazat"
+  },
+  "dateClock": {
+    "message": "Datum a čas"
+  },
+  "contextMenu": {
+    "message": "Kontextová nabídka"
+  },
+  "contextMenuDescription": {
+    "message": "Povolit, zakázat nebo znovu zobrazit položky kontextové nabídky"
+  },
+  "customCopy": {
+    "message": "Vlastní kopie"
+  },
+  "customCopyDescription": {
+    "message": "Nastavte vlastní formát kopie"
+  },
+  "modifiers": {
+    "message": "Modifikátory"
+  },
+  "pinned": {
+    "message": "Připnuto"
+  },
+  "hidden": {
+    "message": "Skrýt"
+  },
+  "duplicateToPrivate": {
+    "message": "Duplikovat na soukromé"
+  },
+  "selectMatch": {
+    "message": "Vyberte Shoda"
+  },
+  "customReload": {
+    "message": "Vlastní opětovné načtení"
+  },
+  "customReloadDescription": {
+    "message": "Vyberte hodnotu Vlastní opětovné načtení"
+  },
+  "cleanUrl": {
+    "message": "Vyčistit URL"
+  },
+  "cleanUrlDescription": {
+    "message": "Odstraňte sledovací/přesměrovací řetězce z adres URL karet"
+  },
+  "showFlag": {
+    "message": "Zobrazit vlajku"
+  },
+  "showFlagDescription": {
+    "message": "Zpracovat IP umístění a zobrazit příznak"
+  },
+  "pageSettings": {
+    "message": "Nastavení stránky PDF"
+  },
+  "pageSettingsDescription": {
+    "message": "Objekt nastavení pro uloženou stránku"
+  },
+  "add": {
+    "message": "Přidat"
+  },
+  "date": {
+    "message": "Datum"
+  },
+  "weekday": {
+    "message": "Formát pracovního dne"
+  },
+  "weekdayDescription": {
+    "message": "So vs. sobota"
+  },
+  "month": {
+    "message": "Formát měsíce"
+  },
+  "monthDescription": {
+    "message": "Led. versus leden"
+  },
+  "short": {
+    "message": "Krátký"
+  },
+  "long": {
+    "message": "Dlouhý"
+  },
+  "clock": {
+    "message": "Čas"
+  },
+  "hour12": {
+    "message": "12-hodinový formát času"
+  },
+  "hour12Description": {
+    "message": "Výchozí nastavení je 24 hodin"
+  },
+  "restore": {
+    "message": "Obnovit výchozí nastavení"
+  },
+  "container": {
+    "message": "Kontejner"
+  },
+  "siteIsolation": {
+    "message": "Omezení na vyhrazená místa"
+  },
+  "errorPattern": {
+    "message": "Došlo k chybě ve vzoru"
+  },
+  "errorDuplicatePattern": {
+    "message": "Vzor existuje v jiném kontejneru"
+  },
+  "theme": {
+    "message": "Téma"
+  },
+  "redirect": {
+    "message": "Přesměrovat"
+  },
+  "testUrl": {
+    "message": "Testovací URL"
+  },
+  "redirectResult": {
+    "message": "Výsledek přesměrování"
+  },
+  "name": {
+    "message": "Název"
+  },
+  "description": {
+    "message": "Popis"
+  },
+  "version": {
+    "message": "Verze"
+  },
+  "homePage": {
+    "message": "DOmovská stránka"
+  },
+  "author": {
+    "message": "Autor"
+  },
+  "addTheme": {
+    "message": "Přidat"
+  },
+  "updateTheme": {
+    "message": "Aktualizace"
+  },
+  "deleteTheme": {
+    "message": "Smazat"
+  },
+  "clearTheme": {
+    "message": "Vyčistit"
+  },
+  "applyTheme": {
+    "message": "Použít"
+  },
+  "resetTheme": {
+    "message": "Smazat"
+  },
+  "noNameError": {
+    "message": "Téma musí mít název"
+  },
+  "about": {
+    "message": "O aplikaci"
+  },
+  "error": {
+    "message": "Při operaci došlo k chybě"
+  },
+  "export": {
+    "message": "Export"
+  },
+  "fileParseError": {
+    "message": "Při analýze souboru došlo k chybě"
+  },
+  "fileReadError": {
+    "message": "Při čtení souboru došlo k chybě"
+  },
+  "fileSizeError": {
+    "message": "Velikost souboru je větší než povolený $ 1 kB"
+  },
+  "fileTypeError": {
+    "message": "Nepodporovaný formát souboru"
+  },
+  "help": {
+    "message": "Nápověda"
+  },
+  "import": {
+    "message": "Import"
+  },
+  "jsonError": {
+    "message": "Neplatný formát JSON"
+  },
+  "options": {
+    "message": "Možnosti"
+  },
+  "saveOptions": {
+    "message": "Uložit"
+  }
+}
